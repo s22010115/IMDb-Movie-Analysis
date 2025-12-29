@@ -1,4 +1,4 @@
-# IMDb Movie Rating Analysis
+## IMDb Movie Rating Analysis
 
 This project analyzes IMDb movie data using Python and Pandas.  
 
