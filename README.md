@@ -1,8 +1,8 @@
-## IMDb Movie Rating Analysis
+### IMDb Movie Rating Analysis
 
 This project analyzes IMDb movie data using Python and Pandas.  
 
-### Features:
+#### Features:
 - Data cleaning and preparation
 - Analysis of movie ratings and genres
 - Visualizations: bar charts, histograms, scatter plots
@@ -13,5 +13,5 @@ This project analyzes IMDb movie data using Python and Pandas.
   - Very low-rated movies are fewer in number
   - The distribution of ratings shows that most movies are well-received
 
-### Tools:
+#### Tools:
 Python, Pandas, Matplotlib
