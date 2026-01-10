@@ -1,4 +1,4 @@
-### IMDb Movie Rating Analysis
+### IMDb Movie Rating Analysis Project
 
 This project analyzes IMDb movie data using Python, Pandas, Power BI.  
 
